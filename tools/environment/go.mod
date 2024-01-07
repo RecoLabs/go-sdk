@@ -2,8 +2,6 @@ module github.com/descope/go-sdk/tools/environment
 
 go 1.18
 
-replace github.com/descope/go-sdk => ../../
-
 require (
 	github.com/descope/go-sdk v1.5.7
 	github.com/spf13/cobra v1.8.0
